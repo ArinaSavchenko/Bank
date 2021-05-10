@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "QBpbyEFFW9ImzlXT8rAC8TXe6Qro8qb6ccf46OJQ/yIn5XthiUUte74QpkHd93PW3K7M6RtPSxlyxCrytFXBeA==",
+  "dgSpecHash": "kr3WplZu32bM78MDXH0yblRCzbjbQg4cljeZbpOKrw/j41K4aIgAA7egcVwJt3D2zya3/Ld/Y57I5eSFe6WGFw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Aryna.Sauchanka\\Desktop\\RSOI_KURSACH\\Bank\\BankWebApi\\Bank.Datalayer\\Bank.Datalayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Aryna.Sauchanka\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Aryna.Sauchanka\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Aryna.Sauchanka\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0-preview.1.21102.2\\microsoft.entityframeworkcore.6.0.0-preview.1.21102.2.nupkg.sha512",
     "C:\\Users\\Aryna.Sauchanka\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0-preview.1.21102.2\\microsoft.entityframeworkcore.abstractions.6.0.0-preview.1.21102.2.nupkg.sha512",
     "C:\\Users\\Aryna.Sauchanka\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.0-preview.1.21102.2\\microsoft.entityframeworkcore.analyzers.6.0.0-preview.1.21102.2.nupkg.sha512",
@@ -18,6 +20,7 @@
     "C:\\Users\\Aryna.Sauchanka\\.nuget\\packages\\system.collections.immutable\\6.0.0-preview.1.21102.12\\system.collections.immutable.6.0.0-preview.1.21102.12.nupkg.sha512",
     "C:\\Users\\Aryna.Sauchanka\\.nuget\\packages\\system.componentmodel.annotations\\6.0.0-preview.1.21102.12\\system.componentmodel.annotations.6.0.0-preview.1.21102.12.nupkg.sha512",
     "C:\\Users\\Aryna.Sauchanka\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0-preview.1.21102.12\\system.diagnostics.diagnosticsource.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\Aryna.Sauchanka\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\Aryna.Sauchanka\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0-preview.1.21102.12\\system.runtime.compilerservices.unsafe.6.0.0-preview.1.21102.12.nupkg.sha512"
   ],
   "logs": []

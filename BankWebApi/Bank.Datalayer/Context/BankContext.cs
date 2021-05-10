@@ -11,7 +11,6 @@ namespace Bank.Datalayer.Context
         public DbSet<Account> Accounts { get; set; }
         public DbSet<Contract> Contracts { get; set; }
         public DbSet<TypeOfAccount> TypesOfAccounts { get; set; }
-        public DbSet<Office> Offices { get; set; }
         
         public BankContext(DbContextOptions<BankContext> options)
             : base(options)
@@ -29,11 +28,6 @@ namespace Bank.Datalayer.Context
                 .HasOne<TypeOfAccount>(a => a.TypeOfAccount)
                 .WithMany(ta => ta.Accounts)
                 .HasForeignKey(a => a.AccountTypeId);
-
-            modelBuilder.Entity<Worker>()
-                .HasOne<Office>(w => w.Office)
-                .WithMany(o => o.Workers)
-                .HasForeignKey(w => w.OfficeId);
             
             modelBuilder.Entity<Contract>()
                 .HasOne<Worker>(c => c.Worker)
@@ -55,10 +49,6 @@ namespace Bank.Datalayer.Context
                 .WithOne(c => c.Account)
                 .HasForeignKey<Contract>(c => c.AccountId);
             
-            modelBuilder.Entity<Account>()
-                .HasOne<Contract>(a => a.Contract)
-                .WithOne(c => c.Account)
-                .HasForeignKey<Contract>(c => c.AccountId);
         }
     }
 }

@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ni212OXENQJy9HOcSKgFH8tc20MaNihI8hnS+5TxqhXtWYhpfSXzNJyOPVgmZ3SHPPA3tpbO4bvJre1POCfOug==",
+  "dgSpecHash": "kmWKSmMJf8nYOa5nsqOwfk14J+yH1N0+3fzk3Qm0WRaJjZCwzz9Wy4fkncOFtoThYycZuWhR14Z7rQSHlNHE6g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Aryna.Sauchanka\\Desktop\\RSOI_KURSACH\\Bank\\BankWebApi\\BankWebApi\\BankWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aryna.Sauchanka\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Aryna.Sauchanka\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\Aryna.Sauchanka\\.nuget\\packages\\bcrypt\\1.0.0\\bcrypt.1.0.0.nupkg.sha512",
     "C:\\Users\\Aryna.Sauchanka\\.nuget\\packages\\bcrypt.net-next\\4.0.2\\bcrypt.net-next.4.0.2.nupkg.sha512",
+    "C:\\Users\\Aryna.Sauchanka\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.5\\microsoft.aspnetcore.authentication.jwtbearer.5.0.5.nupkg.sha512",
     "C:\\Users\\Aryna.Sauchanka\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Aryna.Sauchanka\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.1\\microsoft.data.sqlclient.2.1.1.nupkg.sha512",
     "C:\\Users\\Aryna.Sauchanka\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",

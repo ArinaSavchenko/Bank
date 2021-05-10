@@ -13,7 +13,7 @@ namespace Bank.Datalayer.Entities
         public string Email { get; set; }
         public string Password { get; set; }
         public int PhoneNumber { get; set; }
-        public bool Status { get; set; }
+        public bool Status { get; set; } = true;
         
         public Client Client { get; set; }
         public Worker Worker { get; set; }
